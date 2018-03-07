@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "383640023110",
+    "project_id": "pepe-meme"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383640023110:android:8eda23275bf777f4",
+        "android_client_info": {
+          "package_name": "com.spurdo.pepememe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383640023110-kiqsb1guf4qdsfmv3mvn2tqb0fh37a34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spurdo.pepememe",
+            "certificate_hash": "95e119bfd3935e63ae6f8f6ed5e87e93180bc66c"
+          }
+        },
+        {
+          "client_id": "383640023110-m0lsr5hd1m5quren7oq38cuimc65f67a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0ZOQgmvlXzKUzqbvRRW-7T3UCnnrEdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
